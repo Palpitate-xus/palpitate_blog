@@ -7,4 +7,5 @@ type: "about"
 ```yaml
 major: Computer Science and Finance
 address: Shanghai, China
+tech stack: Vue/FastAPI/Django/Mysql/Redis/Nginx
 ```
