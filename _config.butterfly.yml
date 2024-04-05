@@ -154,6 +154,11 @@ prismjs:
   line_number: true
   tab_replace: ''
 
+footer:
+  owner:
+    enable: true
+    since: 2024
+
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
@@ -207,13 +212,15 @@ deploy:
 
 menu:
   首页: / || fas fa-home
-  时间轴: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
-  # 清單||fa fa-heartbeat:
-  #   音樂: /music/ || fas fa-music
-  #   照片: /Gallery/ || fas fa-images
-  #   電影: /movies/ || fas fa-video
+  文章||fa fa-newspaper:
+    时间轴: /archives/ || fas fa-archive
+    标签: /tags/ || fas fa-tags
+    分类: /categories/ || fas fa-folder-open
+  爱好||fa fa-heartbeat:
+    剧集: /tv_series/ || fas fa-tv
+    电影: /movies/ || fas fa-flapperboard
+    摄影: /photograph/ || fas fa-camera
+    音乐: /music/ || fas fa-music
   友链: /link/ || fas fa-link
   关于: /about/ || fas fa-heart
 
@@ -221,4 +228,4 @@ menu:
 error_404:
   enable: true
   subtitle: "页面没有找到"
-  background:
+  background: "#ffffff"
