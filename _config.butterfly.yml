@@ -4,12 +4,33 @@
 
 # Site
 title: Palpitate's Blog
-subtitle: 'I got no time to lose.'
 description: 'I got no time to lose.'
 keywords:
 author: Palpitate.xus
 language: zh-CN
 timezone: 'Asia/Shanghai'
+
+# 主页subtitle
+subtitle:
+  enable: true
+  # Typewriter Effect (打字效果)
+  effect: true
+  startDelay: 300 # time before typing starts in milliseconds
+  typeSpeed: 150 # type speed in milliseconds
+  backSpeed: 50 # backspacing speed in milliseconds
+  # loop (循环打字)
+  loop: true
+  # source 调用第三方服务
+  # source: false 关闭调用
+  # source: 1  调用一言网的一句话（简体） https://hitokoto.cn/
+  # source: 2  调用一句网（简体） http://yijuzhan.com/
+  source: https://www.jinrishici.com/
+  # subtitle 会先显示 source , 再显示 sub 的内容
+  # source: false
+  # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
+  # sub:
+  #   - 今日事&#44;今日毕
+  #   - Never put off till tomorrow what you can do today
 
 aside:
   enable: true
@@ -71,8 +92,8 @@ social:
   fab fa-github: https://github.com/Palpitate-xus || Github || "#hdhfbb"
   fas fa-envelope: mailto:palpitate.xus@outlook.com || Email || "#000000"
 
-default_top_img: /img/bg.jpg
-index_img: /img/bg.jpg
+default_top_img: https://cdn.jsdelivr.net/gh/Palpitate-xus/palpitate_blog/source/img/bg.jpg
+index_img: https://cdn.jsdelivr.net/gh/Palpitate-xus/palpitate_blog/source/img/bg.jpg
 
 
 
@@ -218,7 +239,7 @@ menu:
     分类: /categories/ || fas fa-folder-open
   爱好||fa fa-heartbeat:
     剧集: /tv_series/ || fas fa-tv
-    电影: /movies/ || fas fa-flapperboard
+    电影: /movies/ || fas fa-film
     摄影: /photograph/ || fas fa-camera
     音乐: /music/ || fas fa-music
   友链: /link/ || fas fa-link
