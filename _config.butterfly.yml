@@ -102,3 +102,22 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+
+
+menu:
+  首页: / || fas fa-home
+  时间轴: /archives/ || fas fa-archive
+  标签: /tags/ || fas fa-tags
+  分类: /categories/ || fas fa-folder-open
+  # 清單||fa fa-heartbeat:
+  #   音樂: /music/ || fas fa-music
+  #   照片: /Gallery/ || fas fa-images
+  #   電影: /movies/ || fas fa-video
+  友链: /link/ || fas fa-link
+  关于: /about/ || fas fa-heart
+
+# A simple 404 page
+error_404:
+  enable: true
+  subtitle: "页面没有找到"
+  background:
