@@ -3,7 +3,7 @@ title: 剧集
 date: 2024-04-05 13:36:23
 type: "tv_series"
 ---
-### 看过的剧
+### 看过的剧(排名不分先后)
 1. 黑话律师 Big Mouth
 2. 黑暗荣耀 The Glory
 3. 模仿犯 Copycat Killer
