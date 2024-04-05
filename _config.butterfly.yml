@@ -23,7 +23,7 @@ aside:
     category: true
   card_author:
     enable: true
-    description: I'm Palpitate.xus, a self-motivited student major in Computer Science and Finance.
+    description: A self-motivited student major in Computer Science and Finance.
     button:
       enable: false
       icon: fab fa-github
