@@ -1,0 +1,56 @@
+- class_name: 朋友们
+  class_desc: 友链
+  link_list:
+    - name: Holo
+      link: http://blog.holo19.fun/
+      avatar: http://blog.holo19.fun/img/1.jpg
+      descr: Holoの窝
+    - name: 百鬼Nakiri
+      link: https://nakiri.tech/
+      avatar: https://public.dm.files.1drv.com/y4mI1Dqtn1USaO6y-AqhX976irvrLY46hvsYpf2FoUg7o3FqNQOMTMY9uhNRssg0S83aDDbPwDpafhvCMOrotPRPIDdOVYuGtbUyeITqL1R1h3PjG3kD5b4Kaei6S-L2z3WL49qslU-vndB-rWSbzZ2VNcQ2qIKNDw5UiTikLsVajRj0_xfsT-UpmVwjp3RKLTlLvtpOapygNf1nD789abcKxjW7XBP7R0SXCQlCZAEycA
+      descr: Nakiri Ayame   
+    - name: 辉夜
+      link: https://teruenight.github.io/
+      avatar: https://blogpic-5qb.pages.dev/img/avatar/neko.jpg
+      descr: 尘世之外の咖啡屋
+    - name: chinazyq
+      link: https://zyqs.xyz/
+      avatar: https://zyqs.xyz/img/chinazyq.jpg
+      descr: ZDisk
+    - name: Palpitate.xus
+      link: https://blog.ecust.fun/
+      avatar: https://blog.ecust.fun/img/avatar.jpg
+      descr: Palpitate's Blog
+    - name: Eric
+      link: https://www.ecust.icu/
+      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/b_807cbe92f38534bcbeb84c002fa31985.jpg
+      descr: 老张的后花园
+    - name: UKEricPZ
+      link: https://blog.ukericpz.com/
+      avatar: https://cdn.jsdelivr.net/gh/UKEricPZ/blogimage@main/favicon.png
+      descr: 乆鸽 UKEricPZ
+      
+- class_name: 组织
+  class_desc: 一些有趣的小团体
+  link_list:
+    - name: ecustmc
+      link: https://mc.ecustvr.top/
+      avatar: https://mc.ecustvr.top/img/2.webp
+      descr: 华东理工大学方块乐享部
+
+- class_name: 网站框架
+  class_desc: 网站搭建框架
+  link_list:
+    - name: Hexo
+      link: https://hexo.io/zh-CN/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 快速、简单且强大的网志框架
+    - name: Butterfly
+      link: https://butterfly.js.org/
+      avatar: https://d33wubrfki0l68.cloudfront.net/6657ba50e702d84afb32fe846bed54fba1a77add/827ae/logo.svg
+      descr: 本网站使用的框架美化方案教程
+    - name: Butterfly github
+      link: https://github.com/jerryc127/hexo-theme-butterfly
+      avatar: https://fastly.jsdelivr.net/gh/jerryc127/CDN/img/butterfly-github-avatar.png
+      descr: 本网站使用的框架美化方案github库
+
