@@ -3,6 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
+favicon: https://cdn.jsdelivr.net/gh/Palpitate-xus/palpitate_blog/source/img/avatar.jpg
 title: Palpitate's Blog
 description: 'I got no time to lose.'
 keywords:
