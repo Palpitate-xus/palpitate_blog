@@ -8,4 +8,5 @@ type: "about"
 major: Computer Science and Finance
 address: Shanghai, China
 tech stack: Vue/FastAPI/Django/Mysql/Redis/Nginx
+interests: Photography/Travel/Coding
 ```
