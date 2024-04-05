@@ -66,8 +66,8 @@ type: "tv_series"
 60. 回声3号 Echo 3
 61. 财阀x刑警 Flex X Cop
 62. 当你沉睡时 While You Were Sleeping
-63. 三体 3.Body.Problem
-64. 太阳的后裔 Descendants.of.the.Sun
+63. 三体 3 Body Problem
+64. 太阳的后裔 Descendants of the Sun
 
 ### Todo
 - [ ] 神的测验
