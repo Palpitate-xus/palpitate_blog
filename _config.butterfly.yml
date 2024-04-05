@@ -11,6 +11,17 @@ author: Palpitate.xus
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+social:
+  fab fa-github: https://github.com/Palpitate-xus || Github || "#hdhfbb"
+  fas fa-envelope: mailto:palpitate.xus@outlook.com || Email || "#000000"
+
+top_img: /img/bg.jpg
+index_img: /img/bg.jpg
+
+avatar:
+  img: /img/avatar.jpg
+  effect: false
+
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://blog.ecust.fun
@@ -97,6 +108,8 @@ ignore:
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: butterfly
+highlight_theme: mac light
+highlight_copy: true
 
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
