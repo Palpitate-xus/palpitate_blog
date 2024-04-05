@@ -44,6 +44,13 @@ copy:
     enable: true
     limit_count: 50
 
+toc:
+  post: true
+  page: true
+  number: true
+  expand: false
+  style_simple: false # for post
+  scroll_percent: true
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
