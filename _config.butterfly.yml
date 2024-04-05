@@ -10,6 +10,11 @@ author: Palpitate.xus
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
+nav:
+  logo: https://cdn.jsdelivr.net/gh/Palpitate-xus/palpitate_blog/source/img/avatar.jpg
+  display_title: true
+  fixed: false
+
 # 主页subtitle
 subtitle:
   enable: true
