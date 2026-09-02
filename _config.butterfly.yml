@@ -256,3 +256,10 @@ error_404:
   enable: true
   subtitle: "页面没有找到"
   background: aqua
+
+# Custom Liquid Glass controls
+inject:
+  head:
+    - <link rel="stylesheet" href="/css/liquid-glass.css?v=1">
+  bottom:
+    - <script defer src="/js/liquid-glass.js?v=1"></script>
