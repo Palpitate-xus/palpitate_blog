@@ -260,6 +260,6 @@ error_404:
 # Custom Liquid Glass controls
 inject:
   head:
-    - <link rel="stylesheet" href="/css/liquid-glass.css?v=2">
+    - <link rel="stylesheet" href="/css/liquid-glass.css?v=3">
   bottom:
-    - <script defer src="/js/liquid-glass.js?v=1"></script>
+    - <script defer src="/js/liquid-glass.js?v=3"></script>
